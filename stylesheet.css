@@ -16,7 +16,7 @@ body {
     background-position: -101px -62px;
     opacity: 0.55; margin: 0 3px 0 18px;
 }
-#app:hover {opacity: 1;}
+#app:hover {opacity: 1}
 
 .nav {
     width: 250px; margin: 23px 22px 20px 80%;
