@@ -1,5 +1,5 @@
 body {
-    max-width: 1366px; min-width: 720px;
+    max-width: 1366px; min-width: 1262px; margin: 0 auto;
     background-color: white;
     font-family: Arial, sans-serif; font-size: small;
 }
